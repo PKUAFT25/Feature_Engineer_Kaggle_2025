@@ -39,8 +39,9 @@ venv.bak/
 *.swo
 *~
 
-# Data files (optional - uncomment if you don't want to upload train.csv)
-# *.csv
+# Data files
+*.csv
+train.csv
 
 # OS
 .DS_Store

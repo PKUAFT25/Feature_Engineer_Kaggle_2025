@@ -1,0 +1,30 @@
+# Optiver Feature Engineering - Python Dependencies
+
+# Core Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Scientific Computing
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Optional: For faster computation
+# numba>=0.54.0
+
+# Optional: For visualization
+# matplotlib>=3.4.0
+# seaborn>=0.11.0
+
+# Optional: For model training
+# lightgbm>=3.2.0
+# xgboost>=1.4.0
+
+# Optional: For Jupyter Notebook
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
+
